@@ -1,0 +1,19 @@
+﻿Build started 20-Jun-18 10:44:23 AM.
+     1>Project "E:\CodingSpace\GameloftInternship\MyWorkspace\PhysicFramework\FrameworkC++\common\esUtil.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"debug\\" /Fd"debug\esUtil.pdb" /Gd /TP /analyze- /errorReport:prompt include\2d\vec2.cpp
+         vec2.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"lib\\esUtil_d.lib" /NOLOGO debug\vec2.obj
+         debug\esShader.obj
+         debug\esShapes.obj
+         debug\esTransform.obj
+         debug\esUtil.obj
+         debug\esUtil_TGA.obj
+         debug\esUtil_win32.obj
+         esUtil.vcxproj -> E:\CodingSpace\GameloftInternship\MyWorkspace\PhysicFramework\FrameworkC++\common\lib\esUtil_d.lib
+     1>Done Building Project "E:\CodingSpace\GameloftInternship\MyWorkspace\PhysicFramework\FrameworkC++\common\esUtil.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
